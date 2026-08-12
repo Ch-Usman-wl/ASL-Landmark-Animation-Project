@@ -1,0 +1,15 @@
+{
+    "source_hdf5": "MathClassroom_FINAL_PERFECT.hdf5",
+    "total_samples": 14327,
+    "train_samples": 9974,
+    "val_samples": 2090,
+    "test_samples": 2263,
+    "num_classes": 119,
+    "ratios": {
+        "train": 0.7,
+        "val": 0.15,
+        "test": 0.15
+    },
+    "seed": 786,
+    "note": "PERFECT STRATIFIED SPLIT \u2014 NO LEAKAGE \u2014 READY FOR 99% ACCURACY"
+}
