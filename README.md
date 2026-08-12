@@ -5,8 +5,8 @@ A Python project for generating **American Sign Language (ASL) landmark animatio
 The project combines static ASL fingerspelling landmarks with temporal ASL sign data. The goal is to convert text into a sequence of hand landmarks that can be rendered as an animated skeleton.
 
 ## IMPORTANT
-go to this huggingface dataset and download the val.hdf5 file and put it inside data/primarymath folder.
-In the end, the data/primarymath folder will contain 3 files, labels.json, split_info.json and val.hdf5 (all from the same dataset)
+go to this huggingface dataset and download the **val.hdf5** file and put it inside **data/primarymath** folder.
+In the end, the data/primarymath folder will contain **3** files, labels.json, split_info.json and val.hdf5 (all from the same dataset)
 Link: https://huggingface.co/datasets/umamas09/PrimaryMath-Classroom-ASL-118/tree/main
 
 ## Overview
